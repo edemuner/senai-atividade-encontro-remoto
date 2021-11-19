@@ -1,1 +1,3 @@
 arquivo criado na branch master para ser depois alterado em outra branch
+
+modificação criada na branch nova-branch para depois ser merged em master
